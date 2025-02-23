@@ -1,6 +1,4 @@
-## Emotion Recognition inference code using ONNX Runtime
 
-![Vizualization](https://github.com/Shohruh72/Emotion_onnx/blob/main/weights/demo.gif)
 
 ### Installation
 
@@ -32,7 +30,3 @@ $ python demo.py
 * This repo supports only inference, see reference for more details
 
 
-#### Reference
-
-* https://github.com/av-savchenko/hsemotion
-* https://github.com/Shohruh72/SCRFD
