@@ -25,8 +25,4 @@ pip install opencv-python==4.5.5.64
 $ python demo.py
 ```
 
-#### Note
-
-* This repo supports only inference, see reference for more details
-
 
